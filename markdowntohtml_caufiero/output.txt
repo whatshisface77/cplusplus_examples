@@ -1,0 +1,36 @@
+<p>Here is why <em>I think I should get this job</em>!</p>
+
+<h2> Part 1: Me</h2>
+
+<p>I am a very good worker and <strong>hiring me would not be a <em>mistake</em> <em>trust me</em>!</strong></p>
+
+<h6> Part 2: Me &amp; You </h6>
+
+<p>Here is a list of reasons why I am &gt; everyone ever in the world!</p>
+
+<o1>
+<li>I am a very good worker</li>
+<li>I can count <strong>very well</strong></li>
+<li>A bunch of other positive things <strong>go <em>here</em></strong>!</li>
+</o1>
+
+<h4> Part 3: Everyone &lt; Me</h4>
+
+<u1>
+<li>I am very small, only around 5 foot 6 inches</li>
+<li>But that shouldn't stop you</li>
+<li>From <em>hiring</em></li>
+<li><strong>me</strong></li>
+</u1>
+
+<h1> Conclusion</h1>
+
+<p>In summary I am
+100. A very smart cookie
+7. possibly the best ever
+9. This was all a farce to test this program</p>
+
+<p>Thank you and <strong>goodnight</strong>!
+</p>
+
+
